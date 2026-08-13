@@ -1,235 +1,264 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:fe6a2f,100:0a0a0a&height=220&section=header&text=JULIO%20EVANGELISTA&fontSize=48&fontColor=f5f5f4&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEM%20ONLINE&descAlignY=58&descSize=18" width="100%"/>
+
 <br>
 
-<h1 align="center">Julio Evangelista</h1>
-<p align="center"><em>Building digital experiences with code &amp; design.</em></p>
+```
+> SYSTEM BOOT SEQUENCE INITIATED...
+> LOADING IDENTITY MODULE............ [OK]
+> LOADING TECH_STACK.dll.............. [OK]
+> ESTABLISHING SECURE CONNECTION...... [OK]
+> WELCOME, VISITOR. ACCESS GRANTED.
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1400&color=94A3B8&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%E2%80%94+S%C3%A3o+Paulo%2C+Brasil;Do+wireframe+ao+deploy%2C+com+precis%C3%A3o+em+cada+camada;Freelancer+%E2%80%94+dispon%C3%ADvel+para+novos+projetos" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FE6A2F&center=true&vCenter=true&width=650&lines=Entrego+solu%C3%A7%C3%B5es+escal%C3%A1veis%2C+performaticas+e+seguras;Do+design+ao+deploy%2C+em+cada+detalhe+da+infraestrutura;Full+Stack+%7C+Criando+experi%C3%AAncias+que+funcionam;Backend+%2B+Frontend+%2B+Automa%C3%A7%C3%A3o+%3D+Solu%C3%A7%C3%B5es+Completas" alt="Typing SVG" />
 
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/STATUS-DISPON%C3%ADVEL_PARA_PROJETOS-fe6a2f?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-S%C3%A3o_Paulo%2C_Brasil-1e1e1e?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/MODO-Freelancer-fe6a2f?style=for-the-badge&labelColor=0a0a0a" />
+</p>
 
-<img src="https://img.shields.io/badge/status-dispon%C3%ADvel-FE7A45?style=flat-square&labelColor=0B0F19" height="26" />
-<img src="https://img.shields.io/badge/base-S%C3%A3o%20Paulo%2C%20Brasil-1E293B?style=flat-square&labelColor=0B0F19&color=94A3B8" height="26" />
-<img src="https://img.shields.io/badge/modo-Freelancer-1E293B?style=flat-square&labelColor=0B0F19&color=94A3B8" height="26" />
-
-<br><br>
-
-<a href="https://julio-evangelista-portfolio.vercel.app"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#"><b>Email</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#"><b>GitHub</b></a>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=fe6a2f" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=fe6a2f" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=fe6a2f" /></a>
+</p>
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-&nbsp;
+## `0x01` ⌗ SOBRE_MIM.exe
 
-## Sobre
-
-Entrego soluções escaláveis, performáticas e seguras — pensando em cada detalhe, da interface até a infraestrutura. FullStack, para mim, não é acumular tecnologias: é criar experiências que funcionam, do primeiro wireframe ao último deploy.
-
-O fluxo é sempre o mesmo, em três etapas: **Descobrir** o problema antes de desenhar a solução, **Design** do sistema visual e da arquitetura, e **Entregar** código limpo e em produção.
-
-Formado tecnicamente pela **ETEC Parque Belém** (Técnico em Informática, com laboratório em Spring Boot &amp; Angular).
-
-&nbsp;
-
-<table width="100%">
+<table>
 <tr>
-<td width="25%" align="center">
+<td width="65%" valign="top">
 
-<h3>4+</h3>
-<sub>projetos de cliente<br>entregues</sub>
+```yaml
+identidade:
+  nome: "Julio Evangelista"
+  cargo: "Full Stack Developer"
+  base: "São Paulo, Brasil"
+  modalidade: "Freelancer"
+
+missao: >
+  Entrego soluções escaláveis, performáticas e seguras —
+  pensando em cada detalhe, da interface até a infraestrutura.
+
+filosofia: >
+  FullStack: criar experiências que funcionam. Do primeiro
+  wireframe ao último deploy, cada camada do produto é
+  tratada com a mesma precisão.
+
+formacao:
+  curso: "Técnico em Informática"
+  instituicao: "ETEC Parque Belém"
+  foco: "Laboratório com Spring Boot & Angular"
+```
 
 </td>
-<td width="25%" align="center">
+<td width="35%" valign="top" align="center">
 
-<h3>2</h3>
-<sub>frentes<br>backend + frontend</sub>
+```
+   ╔═══════════════╗
+   ║   ◉  ONLINE   ║
+   ╠═══════════════╣
+   ║  BACKEND   ▓▓▓ ║
+   ║  FRONTEND  ▓▓▓ ║
+   ║  DATABASE  ▓▓▓ ║
+   ║  DEVOPS    ▓▓▓ ║
+   ╚═══════════════╝
+```
 
-</td>
-<td width="25%" align="center">
-
-<h3>1</h3>
-<sub>identidade visual<br>consistente</sub>
-
-</td>
-<td width="25%" align="center">
-
-<h3>∞</h3>
-<sub>disposição para<br>aprender</sub>
+<sub>🧠 *Processo de trabalho: Descobrir → Design → Entregar*</sub>
 
 </td>
 </tr>
 </table>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+## `0x02` ⌗ TECH_STACK.config
 
-&nbsp;
+<div align="center">
 
-## Stack
+**▸ FRONTEND**
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-**Frontend**
+**▸ BACKEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,java,nodejs" />
 
-</td>
-<td width="25%" valign="top">
+**▸ BANCO DE DADOS**
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-<img src="https://skillicons.dev/icons?i=php,java,nodejs&theme=dark" />
+**▸ TOOLS & DEVOPS**
 
-</td>
-<td width="25%" valign="top">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 
-**Dados**
+**▸ AUTOMAÇÃO & INTEGRAÇÃO**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-fe6a2f?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Deploy-0a0a0a?style=for-the-badge&logo=googlecloud&logoColor=fe6a2f" />
 
-</td>
-<td width="25%" valign="top">
+</div>
 
-**Infra &amp; Tooling**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+## `0x03` ⌗ SOLUÇÕES.completas
 
-</td>
-</tr>
-</table>
+<div align="center">
 
-&nbsp;
+| # | Módulo | Descrição |
+|:-:|:--|:--|
+| `01` | **Website & E-Commerce** | Lojas e sites completos, do design à performance |
+| `02` | **Sistemas & Dashboards** | Painéis e sistemas sob medida para gestão de dados |
+| `03` | **Integração & Automação** | Fluxos automatizados conectando ferramentas e processos |
+| `04` | **Consultoria Técnica** | Direcionamento estratégico para decisões de arquitetura |
 
-**Automação &amp; Integração** — N8N, REST APIs, deploy em nuvem
+</div>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<table width="100%">
-<tr><td width="30%">HTML / CSS / JS</td><td width="70%">▰▰▰▰▰▰▰▰▰▱ 95%</td></tr>
-<tr><td>PHP</td><td>▰▰▰▰▰▰▰▰▱▱ 88%</td></tr>
-<tr><td>SQL (MySQL / PostgreSQL)</td><td>▰▰▰▰▰▰▰▰▱▱ 85%</td></tr>
-<tr><td>React</td><td>▰▰▰▰▰▰▰▰▱▱ 80%</td></tr>
-<tr><td>Docker / Git</td><td>▰▰▰▰▰▰▰▰▱▱ 82%</td></tr>
-<tr><td>Java (Spring Boot)</td><td>▰▰▰▰▰▰▰▱▱▱ 75%</td></tr>
-<tr><td>N8N / Automação</td><td>▰▰▰▰▰▰▱▱▱▱ 68%</td></tr>
-</table>
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Projetos
+## `0x04` ⌗ PROJETOS_EM_DESTAQUE
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<br>
 
-**O Oceano — Preamar**
+### 🌊 O Oceano — Preamar
 
-Website temático oceânico com arquitetura de conteúdo dedicada à vida marinha, mergulho e conservação. Paleta navy/teal/cream, tipografia editorial, interações de scroll e parallax.
+> Website temático oceânico com arquitetura de conteúdo dedicada à vida marinha, mergulho e conservação. Paleta navy/teal/cream com tipografia editorial e interações de scroll/parallax.
 
-`Figma` `HTML/CSS/JS` `Design System`
+`Figma` `HTML/CSS/JS` `Design System` `Parallax`
 
-<br>
 </td>
 <td width="50%" valign="top">
-<br>
 
-**Cada Sorriso**
+### 😄 Cada Sorriso
 
-Landing page com identidade visual vibrante, foco em conversão e comunicação direta — elegância combinada com atitude.
+> Landing page com identidade visual vibrante, foco em conversão e comunicação direta — elegância combinada com atitude.
 
 `Frontend` `UI/UX` `Landing Page`
 
-<br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<br>
 
-**Portfolio Pessoal — Owla / Nyx**
+### 🦉 Portfolio Pessoal — Owla / Nyx
 
-Portfólio pessoal em vanilla HTML/CSS/JS, com identidade visual de coruja geométrica, tipografia Poppins + Playfair Display e ilustração autoral de rodapé.
+> Portfólio pessoal construído em vanilla HTML/CSS/JS, com identidade visual de coruja geométrica, tipografia Poppins + Playfair Display e ilustração autoral de rodapé.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Design System`
 
-<br>
 </td>
 <td width="50%" valign="top">
-<br>
 
-**Instep**
+### 👟 Instep
 
-Plataforma de e-commerce de tênis construída com PHP e MySQL, cobrindo catálogo, carrinho e camada de dados.
+> Plataforma de e-commerce de tênis construída com PHP e MySQL, cobrindo catálogo, carrinho e camada de dados.
 
 `PHP` `MySQL` `E-Commerce`
 
-<br>
 </td>
 </tr>
 </table>
 
-<sub>+ <b>Noxvale</b> · <b>Prosa</b> · <b>Pass</b> — projetos reais de clientes, desenvolvidos ao longo da trajetória freelancer.</sub>
+<div align="center">
+<sub>+ Noxvale · Prosa · Pass — projetos reais de clientes desenvolvidos ao longo da trajetória freelancer</sub>
+</div>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+## `0x05` ⌗ OBJETIVOS_ATUAIS.log
 
-&nbsp;
+```bash
+julio@dev:~$ cat objetivos_atuais.log
 
-## Atividade
+[■■■■■■■■■■■■■■■■□□□] 85%  Aperfeiçoando arquitetura Full Stack (Spring Boot + Angular)
+[■■■■■■■■■■■■■□□□□□□] 65%  Explorando automações avançadas com N8N + APIs de IA
+[■■■■■■■■■■□□□□□□□□□] 55%  Expandindo portfólio com novos projetos client-side
+[■■■■■■■■□□□□□□□□□□□] 40%  Estudando arquitetura de nuvem e infraestrutura escalável
+
+julio@dev:~$ _
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `0x06` ⌗ SYSTEM_METRICS
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0F19&title_color=F1F5F9&icon_color=FE7A45&text_color=94A3B8&border_radius=12" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&hide_title=true&bg_color=0B0F19&title_color=F1F5F9&text_color=94A3B8&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=fe6a2f&icon_color=fe6a2f&text_color=f5f5f4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=fe6a2f&text_color=f5f5f4" />
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical&hide_border=true&background=0a0a0a&ring=fe6a2f&fire=fe6a2f&currStreakLabel=fe6a2f" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0B0F19&color=94A3B8&line=FE7A45&point=F1F5F9&hide_border=true&hide_title=true&area=true&area_color=FE7A45" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=fe6a2f&line=fe6a2f&point=f5f5f4" width="100%"/>
 
 </div>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
-
-&nbsp;
-
-## Contato
+## `0x07` ⌗ TROPHIES.unlocked
 
 <div align="center">
 
-<p>Vamos conversar sobre o seu próximo projeto.</p>
-
-<a href="https://julio-evangelista-portfolio.vercel.app"><img src="https://img.shields.io/badge/ver%20portfolio-FE7A45?style=flat-square&labelColor=FE7A45&color=FE7A45" height="34" /></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/linkedin-1E293B?style=flat-square&labelColor=1E293B&color=1E293B" height="34" /></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/email-1E293B?style=flat-square&labelColor=1E293B&color=1E293B" height="34" /></a>
-
-<br><br>
-<sub>Julio Evangelista — Full Stack Developer © 2026</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
-<!--
-════════════════════════════════════════════════════════════════
-  NOTAS DE SETUP
-════════════════════════════════════════════════════════════════
-1. Troque "SEU-USUARIO" pelo seu usuário real do GitHub nos três
-   widgets da seção "Atividade" (stats, top-langs, activity-graph).
-2. Troque os "#" nos links de LinkedIn e Email pelos seus reais.
-3. Paleta usada — ver DESIGN-SYSTEM.md para a versão completa do
-   design system (cores, tipografia, espaçamento, componentes)
-   pronta para recriar no Figma.
-════════════════════════════════════════════════════════════════
--->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `0x08` ⌗ CONTRIBUTION_STREAM
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<sub align="center">
+
+> ⚙️ Para ativar a animação da cobrinha: crie o workflow oficial `Platane/snk` no seu repositório de perfil.
+
+</sub>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `0x09` ⌗ CONECTAR
+
+<div align="center">
+
+```
+> Vamos fazer seu projeto acontecer.
+> Entre em contato para iniciar a transmissão.
+```
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-fe6a2f?style=for-the-badge&logo=vercel&logoColor=0a0a0a" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+> CONEXÃO ESTÁVEL. AGUARDANDO PRÓXIMA INSTRUÇÃO...
+```
+
+<sub>Feito por <b>Julio Evangelista</b> — Full Stack Developer © 2026</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:fe6a2f,100:0a0a0a&height=100&section=footer" width="100%"/>
+
+</div>
